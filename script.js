@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Bé Chắc chưa?",
+    "Hou suy nghĩ thêm đi bé!!!",
+    "Vẫn chưa kĩ đâu bé nghĩ thêm đi mà!!!",
+    "Nút yes bên trái kè..",
+    "Đừng như vậy mà em bé của chị ơi!!!",
+    "Ôi chị tan vỡ hết rồi nè. Bắt đền bé ó..!",
+    "Nhấn cái nửa là chị khóc cho coi...",
+    "Chị khóc thiệt đó hổng có dỡn douuu...",
+    "Hou được rồi, chị hổng thèm hỏi nửa dou",
+    "C đùa ó dễ gì bỏ cuộc, say yes đi bé ơi! ❤️"
 ];
 
 let messageIndex = 0;
