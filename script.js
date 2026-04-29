@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Rin Chắc chưa?",
-    "Hou Rin suy nghĩ thêm đi!!!",
-    "Vẫn chưa kĩ đâu Rin nghĩ thêm đi mà!!!",
+    "Em bé chắc chưa?",
+    "Hou Em bé suy nghĩ thêm đi!!!",
+    "Vẫn chưa kĩ đâu Em bé nghĩ thêm đi mà!!!",
     "Nút yes bên trái kè..",
-    "Đừng như vậy mà Rin của em ơi!!!",
-    "Ôi em tan vỡ hết rồi nè. Bắt đền Rin ó..!",
-    "Nhấn cái nửa là em khóc cho coi...",
-    "Em khóc thiệt đó hổng có dỡn douuu...",
-    "Hou được rồi, em hổng thèm hỏi nửa dou",
-    "Em đùa ó dễ gì bỏ cuộc, say yes đi Rin ơi! ❤️"
+    "Đừng như vậy mà Em bé của chị ơi!!!",
+    "Ôi chị tan vỡ hết rồi nè. Bắt đền Em bé ó..!",
+    "Nhấn cái nửa là chị khóc cho coi...",
+    "Chị khóc thiệt đó hổng có dỡn douuu...",
+    "Hou được rồi, chị hổng thèm hỏi nửa dou",
+    "Chị đùa ó dễ gì bỏ cuộc, say yes đi Em bé ơi! ❤️"
 ];
 
 let messageIndex = 0;
